@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.endlessnetwork.fablemaker</id>
+  <name>Fablemaker</name>
+  <project_license>LicenseRef-proprietary</project_license>
+  <developer_name>Endless Studios</developer_name>
+  <summary>Enter the world of Aesop`s fables like never before! Interactive stories where you can customize characters, texts and sounds, hacking into its code in this absorbing and educational app.</summary>
+  <metadata_license>CC0-1.0.5</metadata_license>
+  <url type="homepage">http://thethirdterminal.com</url>
+  <launchable type="desktop-id">com.endlessnetwork.fablemaker.desktop</launchable>
+  <releases>
+      <release version="1.0" date="2019-04-15"/>
+  </releases>
+  <description>
+    <p>Pop open the magical pages that offer a new approach to interacting with the beloved Aesop's Fables! Read and touch these time honored stories and then hack the pages to make them your own. The art, sounds and text can all be hacked, creating your unique fables you can share with others.</p>
+  </description>
+  <categories>
+    <category>LearnToCode</category>
+  </categories>
+  <screenshots>
+    <screenshot>
+      <image type="source">https://github.com/endless-network/FableMaker_Binary/raw/master/FM5.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://github.com/endless-network/FableMaker_Binary/raw/master/FM4.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://github.com/endless-network/FableMaker_Binary/raw/master/FM3.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://github.com/endless-network/FableMaker_Binary/raw/master/FM2.png</image>
+    </screenshot>
+    <screenshot>
+        <image type="source">https://github.com/endless-network/FableMaker_Binary/raw/master/FM1.png</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1" />
+  </content_rating>
+<update_contact>nan@endlessnetwork.com</update_contact>
+</component>
+

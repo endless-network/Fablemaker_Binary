@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Fablemaker
+Comment=Interactive classic fables where you can redefine characters, sounds and even the story itself.
+Exec=com.endlessnetwork.fablemaker.sh
+Icon=com.endlessnetwork.fablemaker
+Terminal=false
+Type=Application
+Categories=LearnToCode;
