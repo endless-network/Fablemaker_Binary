@@ -34,7 +34,7 @@
         <image type="source">https://github.com/endless-network/FableMaker_Binary/raw/master/FM1.png</image>
     </screenshot>
   </screenshots>
-  <content_rating type="oars-1.1" />
+  <content_rating type="oars-1.1">
   </content_rating>
 <update_contact>nan@endlessnetwork.com</update_contact>
 </component>
