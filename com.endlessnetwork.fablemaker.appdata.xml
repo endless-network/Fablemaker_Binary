@@ -5,7 +5,7 @@
   <project_license>LicenseRef-proprietary</project_license>
   <developer_name>Endless Studios</developer_name>
   <summary>Enter the world of Aesop's fables like never before! Interactive stories where you can customize characters, texts and sounds, hacking into its code in this absorbing and educational app.</summary>
-  <metadata_license>CC0-1.0.5</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <url type="homepage">http://thethirdterminal.com</url>
   <launchable type="desktop-id">com.endlessnetwork.fablemaker.desktop</launchable>
   <releases>
