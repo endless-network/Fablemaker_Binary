@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=Fablemaker
-Comment=Interactive classic fables where you can redefine characters, sounds and even the story itself.
+Comment=Hack Aesop’s fables
 Exec=com.endlessnetwork.fablemaker.sh
 Icon=com.endlessnetwork.fablemaker
 Terminal=false
 Type=Application
-Categories=LearnToCode;
+Categories=Education;Game;ComputerScience;KidsGame;
