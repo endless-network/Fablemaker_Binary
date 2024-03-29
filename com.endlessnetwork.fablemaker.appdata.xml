@@ -7,7 +7,7 @@
   <name>Fablemaker</name>
   <project_license>LicenseRef-proprietary</project_license>
   <developer_name>Endless Studios</developer_name>
-  <summary>Enter the world of Aesop's fables like never before! Interactive stories where you can customize characters, texts and sounds, hacking into its code in this absorbing and educational app.</summary>
+  <summary>Hack Aesop’s fables</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <url type="homepage">http://thethirdterminal.com</url>
   <launchable type="desktop-id">com.endlessnetwork.fablemaker.desktop</launchable>
@@ -15,6 +15,7 @@
       <release version="1.2" date="2019-05-30"/>
   </releases>
   <description>
+    <p>Enter the world of Aesop's fables like never before! Interactive stories where you can customize characters, texts and sounds, hacking into its code in this absorbing and educational app.</p>
     <p>Pop open the magical pages that offer a new approach to interacting with the beloved Aesop's Fables! Read and touch these time honored stories and then hack the pages to make them your own. The art, sounds and text can all be hacked, creating your unique fables you can share with others.</p>
   </description>
   <categories>
