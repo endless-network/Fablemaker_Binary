@@ -9,7 +9,7 @@
   <developer_name>Endless Studios</developer_name>
   <summary>Hack Aesop’s fables</summary>
   <metadata_license>CC0-1.0</metadata_license>
-  <url type="homepage">http://thethirdterminal.com</url>
+  <url type="homepage">https://terminaltwo.com/</url>
   <launchable type="desktop-id">com.endlessnetwork.fablemaker.desktop</launchable>
   <releases>
       <release version="1.2" date="2019-05-30"/>
