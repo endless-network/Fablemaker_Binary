@@ -12,7 +12,26 @@
   <url type="homepage">https://terminaltwo.com/</url>
   <launchable type="desktop-id">com.endlessnetwork.fablemaker.desktop</launchable>
   <releases>
-      <release version="1.2" date="2019-05-30"/>
+    <release version="1.2" date="2019-05-30"> 
+      <description>
+        <p>App update including many optimizations.</p>
+      </description>
+    </release>
+    <release version="1.1.1" date="2019-04-29"> 
+      <description>
+        <p>attempt at fix for install issue for game update</p>
+      </description>
+    </release>
+    <release version="1.1" date="2019-04-29"> 
+      <description>
+        <p>Fixes and updates</p>
+      </description>
+    </release>
+    <release version="1.0" date="2019-04-13"> 
+      <description>
+        <p>FableMaker binary.</p>
+      </description>
+    </release>
   </releases>
   <description>
     <p>Enter the world of Aesop’s fables like never before! Interactive stories where you can customize characters, texts and sounds, hacking into its code in this absorbing and educational app.</p>
