@@ -15,8 +15,8 @@
       <release version="1.2" date="2019-05-30"/>
   </releases>
   <description>
-    <p>Enter the world of Aesop's fables like never before! Interactive stories where you can customize characters, texts and sounds, hacking into its code in this absorbing and educational app.</p>
-    <p>Pop open the magical pages that offer a new approach to interacting with the beloved Aesop's Fables! Read and touch these time honored stories and then hack the pages to make them your own. The art, sounds and text can all be hacked, creating your unique fables you can share with others.</p>
+    <p>Enter the world of Aesop’s fables like never before! Interactive stories where you can customize characters, texts and sounds, hacking into its code in this absorbing and educational app.</p>
+    <p>Pop open the magical pages that offer a new approach to interacting with the beloved Aesop’s fables! Read and touch these time honored stories and then hack the pages to make them your own. The art, sounds and text can all be hacked, creating your unique fables you can share with others.</p>
   </description>
   <categories>
     <category>Education</category>
@@ -25,23 +25,30 @@
     <category>KidsGame</category>
   </categories>
   <screenshots>
-    <screenshot>
-      <image type="source">https://github.com/endless-network/FableMaker_Binary/raw/master/FM5.png</image>
-    </screenshot>
     <screenshot type="default">
-      <image type="source">https://github.com/endless-network/FableMaker_Binary/raw/master/FM4.png</image>
+      <image type="source">https://raw.githubusercontent.com/endless-network/Fablemaker_Binary/refs/tags/v1.2/FM4.png</image>
+      <caption>Hack the story by changing the code</caption>
     </screenshot>
     <screenshot>
-      <image type="source">https://github.com/endless-network/FableMaker_Binary/raw/master/FM3.png</image>
+      <image type="source">https://raw.githubusercontent.com/endless-network/Fablemaker_Binary/refs/tags/v1.2/FM5.png</image>
+      <caption>Replace text, character images, and sounds</caption>
     </screenshot>
     <screenshot>
-      <image type="source">https://github.com/endless-network/FableMaker_Binary/raw/master/FM2.png</image>
+      <image type="source">https://raw.githubusercontent.com/endless-network/Fablemaker_Binary/refs/tags/v1.2/FM3.png</image>
+      <caption>Beautifully illustrated artwork</caption>
     </screenshot>
     <screenshot>
-        <image type="source">https://github.com/endless-network/FableMaker_Binary/raw/master/FM1.png</image>
+      <image type="source">https://raw.githubusercontent.com/endless-network/Fablemaker_Binary/refs/tags/v1.2/FM2.png</image>
+      <caption>Hack the story by changing the code</caption>
+    </screenshot>
+    <screenshot>
+        <image type="source">https://raw.githubusercontent.com/endless-network/Fablemaker_Binary/refs/tags/v1.2/FM1.png</image>
+        <caption>Hack classics like “The Goose and The Golden Eggs”</caption>
     </screenshot>
   </screenshots>
-  <content_rating type="oars-1.1">
-  </content_rating>
+  <content_rating type="oars-1.1" />
+  <branding>
+    <color type="primary" scheme_preference="light">#c4dfd7</color>
+    <color type="primary" scheme_preference="dark">#1e4b62</color>
+  </branding>
 </component>
-
