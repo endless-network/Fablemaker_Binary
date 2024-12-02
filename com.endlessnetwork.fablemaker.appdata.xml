@@ -12,6 +12,11 @@
   <url type="homepage">https://terminaltwo.com/</url>
   <launchable type="desktop-id">com.endlessnetwork.fablemaker.desktop</launchable>
   <releases>
+    <release version="1.2.1" date="2024-12-02">
+      <description>
+        <p>Improve app store listing information</p>
+      </description>
+    </release>
     <release version="1.2" date="2019-05-30"> 
       <description>
         <p>App update including many optimizations.</p>
